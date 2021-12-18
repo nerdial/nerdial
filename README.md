@@ -8,28 +8,31 @@
 </div>
 
 
-Hi, This is **Vahid** , a software developer
+Hi, This is **Vahid** , Software Developer, Music Producer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h2> About Me </h2>
+
+<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 I am web developer with years of experience in large scale projects 
+  
+- 🌱 I’m currently working as a web developer and making music
+  
+- 👯 Interested in collaboration
+  
+- 💬 Ask me about PHP, Javascript, Database, Electronic Music
+  
+- ⚡ I am almost interested in everything except : **CSS and HTML**
+
 
 
 <hr>
- <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
+<p align="center">
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Activity</b></i></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nerdial&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nerdial&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
-
 <hr>
 
 
