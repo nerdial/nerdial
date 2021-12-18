@@ -1,4 +1,11 @@
-### Hi there 👋
+<p align="center">
+
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  
+</p>
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 👋 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
+</div>
 
 <!--
 **nerdial/nerdial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
