@@ -15,7 +15,7 @@ Hi, This is **Vahid** , Software Developer, Music Producer
 
 <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I am web developer with years of experience in large scale projects 
+- 🔭 I am a web developer with years of experience in large scale projects 
   
 - 🌱 I’m currently working as a web developer and making music
   
